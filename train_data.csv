@@ -1,0 +1,240 @@
+event_id,event_text,eventClass,eventDeviceCat,eventOperation,eventOutcome,eventSeverity
+230,"An TLS 1.2 connection request was received from a remote client application, but none of the cipher suites supported ...",Application,System,app event,Failure,3
+16,Application popup: Idle timer expired : Session has been idle over its time limit. It will be disconnected in 2 minut...,Application,System,app event,Success,2
+34,The storage optimizer successfully completed retrim on AppData (F:),Application,System,app event,Success,2
+97,A new process has been created.Creator Subject: Security ID: S-1-5-18 Account Name: USEAZUATFTP$ Account Domain: WORK...,Application,System,app event,Success,2
+167,Key file operation.Subject: Security ID: S-1-5-82-3006700770-424185619-1745488364-794895919-4004696415 Account Name: ...,Application,System,app event,Normal,2
+169,Cryptographic operation.Subject: Security ID: S-1-5-82-3006700770-424185619-1745488364-794895919-4004696415 Account N...,Application,System,app event,Normal,2
+170,A worker process with process id of '10232' serving application pool 'WSFTPSVR_WTM' has requested a recycle because t...,Application,System,app event,Success,2
+171,A directory service object was modified. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27934124 Acco...,Application,System,app event,Normal,2
+172,A directory service object was created. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27943269 Accou...,Application,System,app event,Normal,2
+173,A directory service object was moved. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27944648 Account...,Application,System,app event,Normal,2
+175,A directory service object was deleted. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27944626 Accou...,Application,System,app event,Normal,2
+63,Event code: 3005 Event message: An unhandled exception has occurred. Event time: 2/22/2025 8:12:56 PM Event time (UTC...,Authentication,Firewall,user login,Alert,4
+78,An account failed to log on.Subject: Security ID: S-1-5-18 Account Name: SEAAZRSDC03$ Account Domain: abc Logon ID: 0...,Authentication,Firewall,user login,Failure,4
+104,A scheduled task was enabled.Subject: Security ID: S-1-5-20 Account Name: USSPDPRODTM01$ Account Domain: abc Logon ID...,Authentication,Firewall,user login,Failure,4
+105,A scheduled task was disabled.Subject: Security ID: S-1-5-20 Account Name: USSPDDEVDB04$ Account Domain: abc Logon ID...,Authentication,Firewall,user login,Failure,4
+106,A scheduled task was updated.Subject: Security ID: S-1-5-18 Account Name: EUNAZRSPDFTP1-N$ Account Domain: WORKGROUP ...,Authentication,Firewall,user login,Failure,4
+108,System audit policy was changed.Subject: Security ID: S-1-5-18 Account Name: USE2AZRSDC03$ Account Domain: abc Logon ...,Authentication,Firewall,user login,Failure,4
+136,A Kerberos service ticket was requested.Account Information: Account Name: abcAZPRODEUDRUP$@abc.COM Account Domain: a...,Authentication,Firewall,user login,Failure,4
+137,Kerberos pre-authentication failed.Account Information: Security ID: S-1-5-21-932416472-1581942402-1327342795-2793774...,Authentication,Firewall,user login,Failure,4
+138,The computer attempted to validate the credentials for an account. Authentication Package: MICROSOFT_AUTHENTICATION_P...,Authentication,Firewall,user login,Failure,4
+229,A fatal error occurred while creating a TLS client credential. The internal error state is 10013.,Authentication,Firewall,user login,Failure,4
+9,"Credential Guard configuration: 0x0, 0",Authentication,Firewall,user login,Normal,3
+11,The access history in hive \??\C:\Users\.NET v4.5 Classic\NTUSER.DAT was cleared updating 1 keys and creating 1 modif...,Authentication,Firewall,user login,Normal,3
+19,The bootmgr spent 0 ms waiting for user input.,Authentication,Firewall,user login,Normal,3
+64,The User Profile Service has started successfully.,Authentication,Firewall,user login,Success,3
+65,The User Profile Service has stopped.,Authentication,Firewall,user login,Normal,3
+72,An authentication package has been loaded by the Local Security Authority. This authentication package will be used t...,Authentication,Firewall,user login,Normal,3
+73,A trusted logon process has been registered with the Local Security Authority.This logon process will be trusted to s...,Authentication,Firewall,user login,Normal,3
+74,A notification package has been loaded by the Security Account Manager. This package will be notified of any account ...,Authentication,Firewall,user login,Normal,3
+76,A security package has been loaded by the Local Security Authority. Security Package Name: C:\Windows\system32\cloudA...,Authentication,Firewall,user login,Normal,3
+80,An account was logged off.Subject: Security ID: S-1-5-21-580355598-3368204733-2967366707-1001 Account Name: IPS_smart...,Authentication,Firewall,user login,Normal,3
+81,User initiated logoff:Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27941113 Account Name: Sachint0 ...,Authentication,Firewall,user login,Normal,3
+82,A logon was attempted using explicit credentials.Subject: Security ID: S-1-5-82-2502795-2290409902-159026534-96860550...,Authentication,Firewall,user login,Normal,3
+89,An operation was performed on an object.Subject : Security ID: S-1-5-18 Account Name: USEAZUATFTP$ Account Domain: WO...,Authentication,Firewall,user login,Normal,3
+91,An attempt was made to create a hard link.Subject: Account Name: S-1-5-18 Account Name: USEAZUATFTP$ Account Domain: ...,Authentication,Firewall,user login,Normal,3
+93,Special privileges assigned to new logon. Subject: Security ID: S-1-5-17 Account Name: IUSR Account Domain: NT AUTHOR...,Authentication,Firewall,user login,Normal,3
+99,An attempt was made to duplicate a handle to an object.Subject: Security ID: S-1-5-18 Account Name: SEAAZRSDC04$ Acco...,Authentication,Firewall,user login,Normal,3
+100,A primary token was assigned to process.Subject: Security ID: S-1-5-18 Account Name: - Account Domain: - Logon ID: 0x...,Authentication,Firewall,user login,Success,3
+101,A service was installed in the system.Subject: Security ID: S-1-5-18 Account Name: MUMWDCP03$ Account Domain: abc Log...,Authentication,Firewall,user login,Normal,3
+102,A scheduled task was created.Subject: Security ID: S-1-5-18 Account Name: USABCFTP01$ Account Domain: WORKGROUP Logon...,Authentication,Firewall,user login,Success,3
+109,A user account was created.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27938107 Account Name: Leen...,Authentication,Firewall,user login,Success,3
+110,A user account was enabled.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27953816 Account Name: Muku...,Authentication,Firewall,user login,Normal,3
+111,An attempt was made to change an account's password.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27...,Authentication,Firewall,user login,Normal,3
+112,An attempt was made to reset an account's password.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-279...,Authentication,Firewall,user login,Normal,3
+113,A user account was disabled.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27944644 Account Name: pra...,Authentication,Firewall,user login,Normal,3
+114,A user account was deleted.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27944646 Account Name: rahu...,Authentication,Firewall,user login,Normal,3
+115,A member was added to a security-enabled global group.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-...,Authentication,Firewall,user login,Normal,3
+116,A member was removed from a security-enabled global group.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342...,Authentication,Firewall,user login,Normal,3
+117,A security-enabled local group was changed.Subject: Security ID: S-1-5-18 Account Name: USAZSPDDFIR-N$ Account Domain...,Authentication,Firewall,user login,Normal,3
+118,A security-enabled global group was changed.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27954412 A...,Authentication,Firewall,user login,Normal,3
+119,A user account was changed.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27948134 Account Name: AZIN...,Authentication,Firewall,user login,Success,3
+120,A user account was locked out.Subject: Security ID: S-1-5-18 Account Name: INDAZRSDC04$ Account Domain: abc Logon ID:...,Authentication,Firewall,user login,Normal,3
+121,A computer account was created.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27953816 Account Name: ...,Authentication,Firewall,user login,Success,3
+122,A computer account was changed.Subject: Security ID: S-1-5-7 Account Name: ANONYMOUS LOGON Account Domain: NT AUTHORI...,Authentication,Firewall,user login,Success,3
+123,A computer account was deleted.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27944626 Account Name: ...,Authentication,Firewall,user login,Normal,3
+124,A security-disabled global group was changed.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27944637 ...,Authentication,Firewall,user login,Normal,3
+125,A member was added to a security-disabled global group.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795...,Authentication,Firewall,user login,Normal,3
+126,A member was removed from a security-disabled global group.Subject: Security ID: S-1-5-21-932416472-1581942402-132734...,Authentication,Firewall,user login,Normal,3
+127,A security-enabled universal group was changed.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-2794463...,Authentication,Firewall,user login,Normal,3
+128,A member was added to a security-enabled universal group.Subject: Security ID: S-1-5-21-932416472-1581942402-13273427...,Authentication,Firewall,user login,Normal,3
+129,A member was removed from a security-enabled universal group.Subject: Security ID: S-1-5-21-932416472-1581942402-1327...,Authentication,Firewall,user login,Normal,3
+130,A security-disabled universal group was changed.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-279446...,Authentication,Firewall,user login,Normal,3
+131,A member was added to a security-disabled universal group.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342...,Authentication,Firewall,user login,Normal,3
+132,A member was removed from a security-disabled universal group.Subject: Security ID: S-1-5-21-932416472-1581942402-132...,Authentication,Firewall,user login,Normal,3
+133,A group’s type was changed.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27941113 Account Name: Sach...,Authentication,Firewall,user login,Normal,3
+134,A user account was unlocked.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-28522 Account Name: MSOL_6...,Authentication,Firewall,user login,Normal,3
+135,A Kerberos authentication ticket (TGT) was requested.Account Information: Account Name: TFSAdmin Supplied Realm Name:...,Authentication,Firewall,user login,Normal,3
+139,A session was reconnected to a Window Station.Subject: Account Name: Sivakumar.Reddyt1 Account Domain: abc Logon ID: ...,Authentication,Firewall,user login,Success,3
+140,A session was disconnected from a Window Station.Subject: Account Name: laxman.vemunurit1 Account Domain: abc Logon I...,Authentication,Firewall,user login,Success,3
+141,The name of an account was changed:Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27944641 Account Na...,Authentication,Firewall,user login,Normal,3
+142,An attempt was made to query the existence of a blank password for an account.Subject: Security ID: S-1-5-21-93241647...,Authentication,Firewall,user login,Normal,3
+143,A user's local group membership was enumerated.Subject: Security ID: S-1-5-18 Account Name: USEAZSPDFTP04$ Account Do...,Authentication,Firewall,user login,Normal,3
+145,The workstation was locked. Subject: Security ID: S-1-5-21-3772321609-3024441946-537470876-500 Account Name: prodsmar...,Authentication,Firewall,user login,Normal,3
+146,The workstation was unlocked. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-9164 Account Name: srini...,Authentication,Firewall,user login,Normal,3
+149,The Per-user audit policy table was created. Number of Elements: 0 Policy ID: 0x74F2,Authentication,Firewall,user login,Normal,3
+153,Resource attributes of the object were changed.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-2795172...,Authentication,Firewall,user login,Normal,3
+164,The state of a transaction has changed.Subject: Security ID: S-1-5-18 Account Name: USEAZUATFTP$ Account Domain: WORK...,Authentication,Firewall,user login,Normal,3
+168,Key migration operation.Subject: Security ID: S-1-5-18 Account Name: AZRUAEWSFTP$ Account Domain: WORKGROUP Logon ID:...,Authentication,Firewall,user login,Normal,3
+182,Credential Manager credentials were read.Subject: Security ID: S-1-5-18 Account Name: INDAZRSDC03$ Account Domain: ab...,Authentication,Firewall,user login,Normal,3
+183,Vault credentials were read. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27941113 Account Name: Sa...,Authentication,Firewall,user login,Normal,3
+184,Vault credentials were read. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27941113 Account Name: Sa...,Authentication,Firewall,user login,Normal,3
+188,The winlogon notification subscriber <WSearch> was unavailable to handle a notification event.,Authentication,Firewall,user login,Normal,3
+189,The winlogon notification subscriber <TrustedInstaller> was unavailable to handle a critical notification event.,Authentication,Firewall,user login,Normal,3
+194,A new external device was recognized by the system.Subject: Security ID: S-1-5-18 Account Name: CLKWDCP01$ Account Do...,Authentication,Firewall,user login,Normal,3
+196,User Logon Notification for Customer Experience Improvement Program,Authentication,Firewall,user login,Normal,3
+197,User Logoff Notification for Customer Experience Improvement Program,Authentication,Firewall,user login,Normal,3
+217,The machine-default permission settings do not grant Local Activation permission for the COM Server application with ...,Authentication,Firewall,user login,Normal,3
+219,The WinRM service is listening for WS-Management requests. User Action Use the following command to see the specific ...,Authentication,Firewall,user login,Normal,3
+220,The WinRM service is not listening for WS-Management requests. User Action If you did not intentionally stop the serv...,Authentication,Firewall,user login,Normal,3
+227,The domain is configured with the following minimum password length-related settings. MinimumPasswordLength: 0 Minimu...,Authentication,Firewall,user login,Normal,3
+228,The security account manager is now logging periodic summary events for remote clients that call legacy password chan...,Authentication,Firewall,user login,Normal,3
+86,A handle to an object was requested with intent to delete.Subject: Security ID: S-1-5-18 Account Name: USEAZSPDFTP04$...,File System,System,file access,Alert,3
+154,"Synchronization of a replica of an Active Directory naming context has begun.Destination DRA: CN=NTDS Settings,CN=IND...",File System,System,file access,Normal,2
+155,"Synchronization of a replica of an Active Directory naming context has ended.Destination DRA: CN=NTDS Settings,CN=IND...",File System,System,file access,Normal,2
+174,A network share object was accessed. Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-27958595 Account ...,File System,System,file access,Normal,2
+176,A network share object was checked to see whether client can be granted desired access. Subject: Security ID: S-1-5-1...,File System,System,file access,Normal,2
+25,"Time Provider NtpClient: No valid response has been received from manually configured peer time.windows.com,0x8 after...",General,System,system event,Failure,3
+218,An unmarshaling policy check was performed when unmarshaling a custom marshaled object and the class {45FB4600-E6E8-4...,General,System,system event,Failure,3
+4,"ADM Connector (1.0_8.0.1.967) Start: pid 10964, tid 4",General,System,system event,Success,2
+21,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x8 (ntp.m|0x8|0.0.0.0:123->...",General,System,system event,Normal,2
+29,"SearchIndexer (8800,P,98) Windows: The database engine (10.00.17763.0000) is starting a new instance (0).",General,System,system event,Normal,2
+30,"svchost (3164,D,0) DS_Token_DB: The database engine started a new instance (0). (Time=0 seconds) Additional Data: lgp...",General,System,system event,Success,2
+33,"Connectivity state in standby: Disconnected, Reason: NIC compliance",General,System,system event,Success,2
+37,Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4: is currently running: GUID: 0022:48ff:fd1f:3cd6 MAC: 00-22-48-1F-...,General,System,system event,Success,2
+40,"svchost (3164,R,98) DS_Token_DB: The database engine is initiating recovery steps.",General,System,system event,Success,2
+42,"svchost (3164,U,98) DS_Token_DB: The database engine has successfully completed recovery steps.",General,System,system event,Success,2
+44,Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4: Zero Touch RoCE: Some of the required capabilities are not suppor...,General,System,system event,Success,2
+52,Name resolution for the name 1f6fa344-ce4d-490d-9354-fd970ff42674.ods.opinsights.azure.com timed out after none of th...,General,System,system event,Normal,2
+55,Duplicate definition of policy found. Policy name=AAD-WindowsCore-AddAccountRestrictions Priority=100,General,System,system event,Normal,2
+68,Unable to collect NUMA physical memory utilization data. The first four bytes (DWORD) of the Data section contains th...,General,System,system event,Normal,2
+214,The Desktop Window Manager has registered the session port.,General,System,system event,Normal,2
+215,Starting session 0 - ?2025?-?02?-?27T05:44:20.412090500Z.,General,System,system event,Normal,2
+216,Ending session 0 started ?2025?-?02?-?27T05:44:20.412090500Z.,General,System,system event,Normal,2
+225,Offline downlevel migration succeeded.,General,System,system event,Normal,2
+8,"Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 device detects that the link is up, and has initiated a normal ope...",Hardware,System,device event,Success,3
+24,VF adapter '\DEVICE\{3BD0846C-87E2-4C14-AC49-10C6D4AFF353}' did not report NDK capabilities.,Hardware,System,device event,Normal,3
+28,Volume C: (\Device\HarddiskVolume4) is healthy. No action is needed.,Hardware,System,device event,Normal,3
+36,Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4: is currently running: Driver Version: 2.70.24728.0 Firmware Versi...,Hardware,System,device event,Success,3
+161,Windows Firewall ignored a rule because it could not be parsed. Profile: All Reason for Rejection: An error occurred....,Network,Firewall,connection,Failure,5
+163,Windows Firewall did not apply the following rule: Rule Information: ID: CoreNet-ICMP6-LD-In Name: Core Networking - ...,Network,Firewall,connection,Failure,5
+177,The Windows Filtering Platform has blocked a packet.Application Information: Process ID: 0 Application Name: -Network...,Network,Firewall,connection,Failure,5
+210,License Activation (slui.exe) failed with the following error code:hr=0x8007139FCommand-line arguments:RuleId=eeba197...,Network,Firewall,connection,Failure,5
+3,The miniport 'Microsoft Hyper-V Network Adapter #2' was successfully initialized,Network,Firewall,connection,Success,4
+6,Miniport NIC 'Microsoft Hyper-V Network Adapter #2' restarted,Network,Firewall,connection,Normal,4
+38,Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 Traffic flow is in restarting state.,Network,Firewall,connection,Success,4
+39,Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 Traffic flow is in running state.,Network,Firewall,connection,Success,4
+70,MSDTC started with the following settings: Security Configuration (OFF = 0 and ON = 1): Allow Remote Administrator = ...,Network,Firewall,connection,Success,4
+156,The following policy was active when the Windows Firewall started.Group Policy Applied: NoProfile Used: PublicOperati...,Network,Firewall,connection,Success,4
+157,A rule was listed when the Windows Firewall started. Profile used: Public Rule: Rule ID: CoreNet-DHCP-In Rule Name: C...,Network,Firewall,connection,Normal,4
+158,A change was made to the Windows Firewall exception list. A rule was added. Profile Changed: All Added Rule: Rule ID:...,Network,Firewall,connection,Normal,4
+159,A change was made to the Windows Firewall exception list. A rule was modified. Profile Changed: All Modified Rule: Ru...,Network,Firewall,connection,Normal,4
+160,A change was made to the Windows Firewall exception list. A rule was deleted. Profile Changed: All Deleted Rule: Rule...,Network,Firewall,connection,Normal,4
+162,Windows Firewall changed the active profile. New Active Profile: Domain,Network,Firewall,connection,Normal,4
+165,The Windows Firewall service started successfully.,Network,Firewall,connection,Success,4
+166,The Windows Firewall Driver started successfully.,Network,Firewall,connection,Success,4
+178,The Windows Filtering Platform has permitted a connection.Application Information: Process ID: 1440 Application Name:...,Network,Firewall,connection,Success,4
+209,SLUI.exe was launched with the following command-line parameters: RuleId=379cccfb-d4e0-48fe-b0f2-0136097be147;Action=...,Network,Firewall,connection,Normal,4
+213,The rules engine successfully re-evaluated the schedule.Kernel policies:Security-SPP-Action-StateData (REG_SZ) =AppId...,Network,Firewall,connection,Success,4
+224,Successfully scheduled Software Protection service for re-start at 2025-02-19T19:52:48Z. Reason: RulesEngine.,Network,Firewall,connection,Success,4
+32,Virtualization-based security (policies: 0) is disabled.,Security,Security Appliance,threat detection,Normal,5
+54,These policies are being excluded since they are only defined with override-only attribute. Policy Names=(Security-SP...,Security,Security Appliance,threat detection,Normal,5
+83,A handle to an object was requested.Subject: Security ID: S-1-5-18 Account Name: SEAAZRSDC04$ Account Domain: abc Log...,Security,Security Appliance,threat detection,Alert,5
+87,An object was deleted.Subject: Security ID: S-1-5-18 Account Name: USABCFTP01$ Account Domain: WORKGROUP Logon ID: 0x...,Security,Security Appliance,threat detection,Alert,5
+90,An attempt was made to access an object.Subject: Security ID: S-1-5-18 Account Name: USABCFTP01$ Account Domain: WORK...,Security,Security Appliance,threat detection,Alert,5
+96,SIDs were filtered.Target Account: Security ID: S-1-5-21-3611907846-4248448592-3007916314-16102 Account Name: - Accou...,Security,Security Appliance,threat detection,Normal,5
+147,RPC detected an integrity violation while decrypting an incoming message. Peer Name: 172.20.13.208 Protocol Sequence:...,Security,Security Appliance,threat detection,Failure,5
+226,Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA). ...,Security,Security Appliance,threat detection,Normal,5
+56,Windows Installer reconfigured the product. Product Name: Microsoft Azure Site Recovery Mobility Service/Master Targe...,System,System,system event,Failure,2
+60,"Initialization status for service objects.C:\Windows\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, ...",System,System,system event,Alert,2
+66,The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine....,System,System,system event,Failure,2
+195,The Group Policy Client service failed to start due to the following error: The service did not respond to the start ...,System,System,system event,Failure,2
+200,The Update Orchestrator Service service terminated with the following error: This operation returned because the time...,System,System,system event,Failure,2
+206,The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutd...,System,System,system event,Alert,2
+212,"A VSS writer has rejected an event with error 0x800423f2, The writer's timeout expired between the Freeze and Thaw ev...",System,System,system event,Failure,2
+1,2025-03-11 22:57:22.778 UTC [5460] LOG: redirecting log output to logging collector process 2025-03-11 22:57:22.778 U...,System,System,system event,Normal,1
+2,"File System Filter 'CldFlt' (Version 10.0, ?2008?-?12?-?25T02:48:25.000000000Z) unloaded successfully.",System,System,system event,Success,1
+5,"File System Filter 'CldFlt' (10.0, ?2008?-?12?-?25T02:48:25.000000000Z) has successfully loaded and registered with F...",System,System,system event,Success,1
+7,The operating system started at system time ?2025?-?03?-?11T22:56:13.500000000Z.,System,System,system event,Normal,1
+10,Hive \??\C:\Windows\System32\SMI\Store\Machine\SCHEMA.DAT was reorganized with a starting size of 13402112 bytes and ...,System,System,system event,Normal,1
+12,There are 0x1 boot options on this system.,System,System,system event,Normal,1
+14,The last shutdown's success status was true. The last boot's success status was true.,System,System,system event,Success,1
+15,The boot menu policy was 0x0.,System,System,system event,Normal,1
+17,The boot type was 0x0.,System,System,system event,Normal,1
+18,The firmware reported boot metrics.,System,System,system event,Normal,1
+20,The time service is now synchronizing the system time with the time source VM IC Time Synchronization Provider with r...,System,System,system event,Normal,1
+26,Processor 3 in group 0 exposes the following power management capabilities:Idle state type: ACPI Idle (C) States (1 s...,System,System,system event,Normal,1
+27,Certificate for local system with Thumbprint 0e 1e 53 4b df a9 27 86 da 90 53 70 27 91 e7 bc 61 a9 04 6a is about to ...,System,System,system event,Normal,1
+31,The kernel power manager has initiated a shutdown transition. Shutdown Reason: Kernel API,System,System,system event,Normal,1
+35,Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 has got: vendor_id 15b3 device_id 1016 subvendor_id 15b3 subsystem...,System,System,system event,Success,1
+41,"svchost (3164,R,98) DS_Token_DB: The database engine has finished replaying logfile C:\Windows\system32\config\system...",System,System,system event,Success,1
+43,"svchost (3164,D,50) DS_Token_DB: The database engine attached a database (1, C:\Windows\system32\config\systemprofile...",System,System,system event,Success,1
+45,The COM+ sub system is suppressing duplicate event log entries for a duration of 86400 seconds. The suppression timeo...,System,System,system event,Normal,1
+46,The Software Protection service is starting. Parameters:<explicit>,System,System,system event,Normal,1
+47,The Software Protection service has started. 10.0.17763.7009,System,System,system event,Normal,1
+48,The Software Protection service has stopped.,System,System,system event,Normal,1
+49,Performance counters for the WmiApRpl (WmiApRpl) service were loaded successfully. The Record Data in the data sectio...,System,System,system event,Success,1
+50,Performance counters for the WmiApRpl (WmiApRpl) service were removed successfully. The Record Data contains the new ...,System,System,system event,Success,1
+51,The Windows Search Service started.,System,System,system event,Normal,1
+57,Windows Installer requires a system restart. Product Name: Microsoft Azure Site Recovery Mobility Service/Master Targ...,System,System,system event,Normal,1
+58,Beginning a Windows Installer transaction: C:\Packages\Plugins\Microsoft.Azure.RecoveryServices.SiteRecovery.Windows\...,System,System,system event,Normal,1
+59,Ending a Windows Installer transaction: C:\Packages\Plugins\Microsoft.Azure.RecoveryServices.SiteRecovery.Windows\1.0...,System,System,system event,Normal,1
+61,The process C:\Windows\system32\svchost.exe (USABCFTP01) has initiated the restart of computer USABCFTP01 on behalf o...,System,System,system event,Normal,1
+62,The event logging service has shut down.,System,System,system event,Normal,1
+67,"The configuration information of the performance library ""C:\Windows\system32\InterceptCounters.dll"" for the ""Interce...",System,System,system event,Normal,1
+71,Windows is starting up. This event is logged when LSASS.EXE starts and the auditing subsystem is initialized.,System,System,system event,Normal,1
+75,The system time was changed.Subject: Security ID: S-1-5-19 Account Name: LOCAL SERVICE Account Domain: NT AUTHORITY L...,System,System,system event,Normal,1
+77,An account was successfully logged on.Subject: Security ID: S-1-5-20 Account Name: EUNAZRSPDFTP1-N$ Account Domain: W...,System,System,system event,Success,1
+79,Group membership information.Subject: Security ID: S-1-0-0 Account Name: - Account Domain: - Logon ID: 0x0Logon Type:...,System,System,system event,Normal,1
+84,A registry value was modified.Subject: Security ID: S-1-5-18 Account Name: MUMWDCP03$ Account Domain: abc Logon ID: 0...,System,System,system event,Normal,1
+85,The handle to an object was closed.Subject : Security ID: S-1-5-18 Account Name: SEAAZRSDC04$ Account Domain: abc Log...,System,System,system event,Normal,1
+88,A handle to an object was requested.Subject : Security ID: S-1-5-21-932416472-1581942402-1327342795-27926779 Account ...,System,System,system event,Normal,1
+92,Permissions on an object were changed.Subject: Security ID: S-1-5-18 Account Name: USABCFTP01$ Account Domain: WORKGR...,System,System,system event,Success,1
+94,A privileged service was called.Subject: Security ID: S-1-5-18 Account Name: USABCFTP01$ Account Domain: WORKGROUP Lo...,System,System,system event,Normal,1
+95,An operation was attempted on a privileged object.Subject: Security ID: S-1-5-21-932416472-1581942402-1327342795-2795...,System,System,system event,Normal,1
+98,A process has exited. Subject: Security ID: S-1-5-18 Account Name: CLKWDCP01$ Account Domain: abc Logon ID: 0x3E7 Pro...,System,System,system event,Normal,1
+107,A token right was adjusted.Subject: Security ID: S-1-5-18 Account Name: SEAAZRSDC04$ Account Domain: abc Logon ID: 0x...,System,System,system event,Success,1
+144,A security-enabled local group membership was enumerated.Subject: Security ID: S-1-5-18 Account Name: AZRUAEWSFTP$ Ac...,System,System,system event,Normal,1
+148,Boot Configuration Data loaded.Subject: Security ID: S-1-5-18 Account Name: - Account Domain: - Logon ID: 0x3E7Genera...,System,System,system event,Normal,1
+150,An attempt was made to register a security event source.Subject : Security ID: S-1-5-18 Account Name: USEAZUATFTP$ Ac...,System,System,system event,Normal,1
+151,An attempt was made to unregister a security event source.Subject Security ID: S-1-5-18 Account Name: USEAZUATFTP$ Ac...,System,System,system event,Normal,1
+152,Auditing settings on object were changed.Subject: Security ID: S-1-5-18 Account Name: USABCFTP01$ Account Domain: WOR...,System,System,system event,Normal,1
+179,The Windows Filtering Platform has permitted a bind to a local port.Application Information: Process ID: 1440 Applica...,System,System,system event,Normal,1
+180,A worker process with process id of '10000' serving application pool 'WSFTPSVR_WTM' was shutdown due to inactivity. A...,System,System,system event,Normal,1
+181,The Windows Process Activation Service (WAS) started with 'Classic' mode using 'ConfigurationSystem',System,System,system event,Normal,1
+185,The IPsec Policy Agent service was started.,System,System,system event,Normal,1
+186,Windows Management Instrumentation Service started sucessfully,System,System,system event,Normal,1
+187,Windows Management Instrumentation Service subsystems initialized successfully,System,System,system event,Success,1
+190,The Event log service was started.,System,System,system event,Normal,1
+191,The Event log service was stopped.,System,System,system event,Normal,1
+192,Microsoft (R) Windows (R) 10.00. 17763 Multiprocessor Free.,System,System,system event,Normal,1
+193,The system uptime is 1017261 seconds.,System,System,system event,Normal,1
+198,A timeout was reached (30000 milliseconds) while waiting for the Group Policy Client service to connect.,System,System,system event,Success,1
+199,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the filebeat service.,System,System,system event,Normal,1
+201,The following boot-start or system-start driver(s) did not load: dam,System,System,system event,Normal,1
+202,The RdAgent service terminated unexpectedly. It has done this 1 time(s). The following corrective action will be take...,System,System,system event,Normal,1
+203,The filebeat service terminated unexpectedly. It has done this 1 time(s).,System,System,system event,Normal,1
+204,The AVCTP service service entered the running state.,System,System,system event,Normal,1
+205,The start type of the BITS service was changed from demand start to auto start.,System,System,system event,Normal,1
+207,A service was installed in the system. Service Name: KslD Service File Name: system32\drivers\wd\KslD.sys Service Typ...,System,System,system event,Normal,1
+208,The following service has repeatedly stopped responding to service control requests: filebeatContact the service vend...,System,System,system event,Normal,1
+211,The VSS service is shutting down due to idle timeout.,System,System,system event,Normal,1
+221,Product: Microsoft Azure Site Recovery Mobility Service/Master Target Server -- Configuration completed successfully.,System,System,system event,Success,1
+222,"The client has sent an activation request to the key management service machine. Info: 0x00000000, 0x00000000, azkms....",System,System,system event,Normal,1
+223,"The client has processed an activation response from the key management service machine. Info: 0x00000000, 0x00000000...",System,System,system event,Normal,1
+231,DHCPv4 client service is started,System,System,system event,Normal,1
+232,DHCPv4 client service is stopped. ShutDown Flag value is 1,System,System,system event,Normal,1
+233,DHCPv4 client registered for shutdown notification,System,System,system event,Normal,1
+234,DHCPv4 client received shutdown notification,System,System,system event,Normal,1
+235,DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT,System,System,system event,Normal,1
+236,DHCPv4 is waiting on DHCPv6 service to stop,System,System,system event,Normal,1
+237,DHCPv6 client service is started,System,System,system event,Normal,1
+238,DHCPv6 client service is stopped. ShutDown Flag value is 1,System,System,system event,Normal,1
+239,DHCPv6 client service stop is almost done.DHCP Context Ref count is 1,System,System,system event,Normal,1
+13,Installation Successful: Windows successfully installed the following update: 2025-03 Cumulative Update for Windows S...,Update,System,system update,Success,1
+22,Installation Started: Windows has started installing the following update: 2025-03 Cumulative Update for Windows Serv...,Update,System,system update,Normal,1
+23,Windows Update started downloading an update.,Update,System,system update,Normal,1
+53,Product: Microsoft Azure Site Recovery Mobility Service/Master Target Server. Restart required. The installation or u...,Update,System,system update,Normal,1
+69,"Successful auto update of third-party root list with effective date: ?Tuesday, ?January ?28, ?2025 12:46:32 AM.",Update,System,system update,Success,1
+103,A scheduled task was deleted.Subject: Security ID: S-1-5-18 Account Name: USABCFTP01$ Account Domain: WORKGROUP Logon...,Update,System,system update,Normal,1

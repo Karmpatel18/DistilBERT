@@ -1,0 +1,722 @@
+[
+    {
+        "event_id": 1,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.5271725058555603,
+            "eventDeviceCat": 0.7520215511322021,
+            "eventOperation": 0.499851256608963,
+            "eventOutcome": 0.9298281073570251,
+            "eventSeverity": 0.8450760245323181
+        }
+    },
+    {
+        "event_id": 2,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9418209195137024,
+            "eventDeviceCat": 0.9817413687705994,
+            "eventOperation": 0.9550459384918213,
+            "eventOutcome": 0.9432448148727417,
+            "eventSeverity": 0.908911943435669
+        }
+    },
+    {
+        "event_id": 3,
+        "eventClass": "File System",
+        "eventDeviceCat": "System",
+        "eventOperation": "file access",
+        "eventOutcome": "Normal",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.744649350643158,
+            "eventDeviceCat": 0.8529133796691895,
+            "eventOperation": 0.7592620253562927,
+            "eventOutcome": 0.8454315662384033,
+            "eventSeverity": 0.861365020275116
+        }
+    },
+    {
+        "event_id": 4,
+        "eventClass": "Application",
+        "eventDeviceCat": "System",
+        "eventOperation": "threat detection",
+        "eventOutcome": "Normal",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.29194629192352295,
+            "eventDeviceCat": 0.8135027885437012,
+            "eventOperation": 0.25908607244491577,
+            "eventOutcome": 0.46567365527153015,
+            "eventSeverity": 0.6164576411247253
+        }
+    },
+    {
+        "event_id": 5,
+        "eventClass": "General",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Success",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.8708536028862,
+            "eventDeviceCat": 0.9798178672790527,
+            "eventOperation": 0.9058572053909302,
+            "eventOutcome": 0.9180395007133484,
+            "eventSeverity": 0.8770956993103027
+        }
+    },
+    {
+        "event_id": 6,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.8806923627853394,
+            "eventDeviceCat": 0.8636672496795654,
+            "eventOperation": 0.8504073619842529,
+            "eventOutcome": 0.9922798871994019,
+            "eventSeverity": 0.9301852583885193
+        }
+    },
+    {
+        "event_id": 7,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.702701985836029,
+            "eventDeviceCat": 0.7713467478752136,
+            "eventOperation": 0.47240200638771057,
+            "eventOutcome": 0.6318382620811462,
+            "eventSeverity": 0.8790073394775391
+        }
+    },
+    {
+        "event_id": 8,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.847184956073761,
+            "eventDeviceCat": 0.8708084225654602,
+            "eventOperation": 0.7813653349876404,
+            "eventOutcome": 0.970725417137146,
+            "eventSeverity": 0.614371657371521
+        }
+    },
+    {
+        "event_id": 9,
+        "eventClass": "Application",
+        "eventDeviceCat": "System",
+        "eventOperation": "app event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.7572189569473267,
+            "eventDeviceCat": 0.9722871780395508,
+            "eventOperation": 0.7483997941017151,
+            "eventOutcome": 0.8986497521400452,
+            "eventSeverity": 0.9082350730895996
+        }
+    },
+    {
+        "event_id": 10,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.8607040047645569,
+            "eventDeviceCat": 0.985780656337738,
+            "eventOperation": 0.8785934448242188,
+            "eventOutcome": 0.5033402442932129,
+            "eventSeverity": 0.8879624605178833
+        }
+    },
+    {
+        "event_id": 11,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9695852398872375,
+            "eventDeviceCat": 0.9742612838745117,
+            "eventOperation": 0.9678345322608948,
+            "eventOutcome": 0.8369901180267334,
+            "eventSeverity": 0.9528287649154663
+        }
+    },
+    {
+        "event_id": 12,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9675312042236328,
+            "eventDeviceCat": 0.9755939841270447,
+            "eventOperation": 0.9634398221969604,
+            "eventOutcome": 0.7762817740440369,
+            "eventSeverity": 0.9686112999916077
+        }
+    },
+    {
+        "event_id": 13,
+        "eventClass": "Hardware",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Success",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.2223697304725647,
+            "eventDeviceCat": 0.9104614853858948,
+            "eventOperation": 0.3729943633079529,
+            "eventOutcome": 0.6746002435684204,
+            "eventSeverity": 0.5915639996528625
+        }
+    },
+    {
+        "event_id": 14,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Success",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.7337194085121155,
+            "eventDeviceCat": 0.9121848940849304,
+            "eventOperation": 0.866382360458374,
+            "eventOutcome": 0.741329550743103,
+            "eventSeverity": 0.6786457300186157
+        }
+    },
+    {
+        "event_id": 15,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Success",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.32470908761024475,
+            "eventDeviceCat": 0.944420576095581,
+            "eventOperation": 0.5642816424369812,
+            "eventOutcome": 0.746673583984375,
+            "eventSeverity": 0.5413973927497864
+        }
+    },
+    {
+        "event_id": 16,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.5294666290283203,
+            "eventDeviceCat": 0.69984370470047,
+            "eventOperation": 0.5483723878860474,
+            "eventOutcome": 0.9869070053100586,
+            "eventSeverity": 0.5007359981536865
+        }
+    },
+    {
+        "event_id": 17,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9551733136177063,
+            "eventDeviceCat": 0.9541787505149841,
+            "eventOperation": 0.9373103380203247,
+            "eventOutcome": 0.9612350463867188,
+            "eventSeverity": 0.9608973860740662
+        }
+    },
+    {
+        "event_id": 18,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Success",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9287748336791992,
+            "eventDeviceCat": 0.9485355019569397,
+            "eventOperation": 0.9238197207450867,
+            "eventOutcome": 0.4411713182926178,
+            "eventSeverity": 0.5644813776016235
+        }
+    },
+    {
+        "event_id": 19,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9241722226142883,
+            "eventDeviceCat": 0.9350520372390747,
+            "eventOperation": 0.9098901152610779,
+            "eventOutcome": 0.9076974987983704,
+            "eventSeverity": 0.9543212652206421
+        }
+    },
+    {
+        "event_id": 20,
+        "eventClass": "Network",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "connection",
+        "eventOutcome": "Success",
+        "eventSeverity": 4,
+        "confidence": {
+            "eventClass": 0.8787352442741394,
+            "eventDeviceCat": 0.9353007674217224,
+            "eventOperation": 0.8713352084159851,
+            "eventOutcome": 0.9182690382003784,
+            "eventSeverity": 0.880001962184906
+        }
+    },
+    {
+        "event_id": 21,
+        "eventClass": "Network",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "connection",
+        "eventOutcome": "Normal",
+        "eventSeverity": 4,
+        "confidence": {
+            "eventClass": 0.9579726457595825,
+            "eventDeviceCat": 0.9776625633239746,
+            "eventOperation": 0.944377601146698,
+            "eventOutcome": 0.4069086015224457,
+            "eventSeverity": 0.8267370462417603
+        }
+    },
+    {
+        "event_id": 22,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9675145745277405,
+            "eventDeviceCat": 0.9786185026168823,
+            "eventOperation": 0.9628533124923706,
+            "eventOutcome": 0.8738623261451721,
+            "eventSeverity": 0.9553464651107788
+        }
+    },
+    {
+        "event_id": 23,
+        "eventClass": "Update",
+        "eventDeviceCat": "System",
+        "eventOperation": "system update",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.6070370674133301,
+            "eventDeviceCat": 0.8660494685173035,
+            "eventOperation": 0.6933938264846802,
+            "eventOutcome": 0.5647867321968079,
+            "eventSeverity": 0.8809400200843811
+        }
+    },
+    {
+        "event_id": 24,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9799529314041138,
+            "eventDeviceCat": 0.9844278693199158,
+            "eventOperation": 0.9776058197021484,
+            "eventOutcome": 0.5686347484588623,
+            "eventSeverity": 0.922773003578186
+        }
+    },
+    {
+        "event_id": 25,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Success",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9697586297988892,
+            "eventDeviceCat": 0.9754593372344971,
+            "eventOperation": 0.9514951705932617,
+            "eventOutcome": 0.7472361922264099,
+            "eventSeverity": 0.953471302986145
+        }
+    },
+    {
+        "event_id": 26,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.778226375579834,
+            "eventDeviceCat": 0.7449646592140198,
+            "eventOperation": 0.6969059705734253,
+            "eventOutcome": 0.9246104955673218,
+            "eventSeverity": 0.8641599416732788
+        }
+    },
+    {
+        "event_id": 27,
+        "eventClass": "Application",
+        "eventDeviceCat": "System",
+        "eventOperation": "app event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.8305449485778809,
+            "eventDeviceCat": 0.9565330147743225,
+            "eventOperation": 0.8675727844238281,
+            "eventOutcome": 0.8324300050735474,
+            "eventSeverity": 0.9177355766296387
+        }
+    },
+    {
+        "event_id": 28,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Success",
+        "eventSeverity": 4,
+        "confidence": {
+            "eventClass": 0.8370426893234253,
+            "eventDeviceCat": 0.9646885991096497,
+            "eventOperation": 0.8079347610473633,
+            "eventOutcome": 0.5640004873275757,
+            "eventSeverity": 0.7864518165588379
+        }
+    },
+    {
+        "event_id": 29,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9685012698173523,
+            "eventDeviceCat": 0.9852069020271301,
+            "eventOperation": 0.9686529040336609,
+            "eventOutcome": 0.6602885127067566,
+            "eventSeverity": 0.8888952136039734
+        }
+    },
+    {
+        "event_id": 30,
+        "eventClass": "Network",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "connection",
+        "eventOutcome": "Failure",
+        "eventSeverity": 4,
+        "confidence": {
+            "eventClass": 0.7219097018241882,
+            "eventDeviceCat": 0.7868415713310242,
+            "eventOperation": 0.7617222666740417,
+            "eventOutcome": 0.7260937690734863,
+            "eventSeverity": 0.5935408473014832
+        }
+    },
+    {
+        "event_id": 31,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.5217706561088562,
+            "eventDeviceCat": 0.9910663962364197,
+            "eventOperation": 0.8481860756874084,
+            "eventOutcome": 0.787226676940918,
+            "eventSeverity": 0.8192349672317505
+        }
+    },
+    {
+        "event_id": 32,
+        "eventClass": "Network",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "connection",
+        "eventOutcome": "Normal",
+        "eventSeverity": 4,
+        "confidence": {
+            "eventClass": 0.35148823261260986,
+            "eventDeviceCat": 0.7386909127235413,
+            "eventOperation": 0.39686819911003113,
+            "eventOutcome": 0.4840468168258667,
+            "eventSeverity": 0.5941694974899292
+        }
+    },
+    {
+        "event_id": 33,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.5532835125923157,
+            "eventDeviceCat": 0.4848342537879944,
+            "eventOperation": 0.5234630107879639,
+            "eventOutcome": 0.9908209443092346,
+            "eventSeverity": 0.556346595287323
+        }
+    },
+    {
+        "event_id": 34,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9436468482017517,
+            "eventDeviceCat": 0.9860883355140686,
+            "eventOperation": 0.9565469622612,
+            "eventOutcome": 0.8167542219161987,
+            "eventSeverity": 0.9545924663543701
+        }
+    },
+    {
+        "event_id": 35,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 4,
+        "confidence": {
+            "eventClass": 0.8508645296096802,
+            "eventDeviceCat": 0.9724630117416382,
+            "eventOperation": 0.7567064762115479,
+            "eventOutcome": 0.7831976413726807,
+            "eventSeverity": 0.4650687575340271
+        }
+    },
+    {
+        "event_id": 36,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9710015654563904,
+            "eventDeviceCat": 0.9707556366920471,
+            "eventOperation": 0.9753091931343079,
+            "eventOutcome": 0.9389543533325195,
+            "eventSeverity": 0.9742310643196106
+        }
+    },
+    {
+        "event_id": 37,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.961729884147644,
+            "eventDeviceCat": 0.9693275094032288,
+            "eventOperation": 0.9514616131782532,
+            "eventOutcome": 0.9390608668327332,
+            "eventSeverity": 0.9614502191543579
+        }
+    },
+    {
+        "event_id": 38,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9739036560058594,
+            "eventDeviceCat": 0.9831706881523132,
+            "eventOperation": 0.9749841094017029,
+            "eventOutcome": 0.9627688527107239,
+            "eventSeverity": 0.9748303294181824
+        }
+    },
+    {
+        "event_id": 39,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9724388122558594,
+            "eventDeviceCat": 0.9790496230125427,
+            "eventOperation": 0.9736400246620178,
+            "eventOutcome": 0.9640088081359863,
+            "eventSeverity": 0.9735098481178284
+        }
+    },
+    {
+        "event_id": 40,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9676794409751892,
+            "eventDeviceCat": 0.9730687737464905,
+            "eventOperation": 0.9689255952835083,
+            "eventOutcome": 0.9625232815742493,
+            "eventSeverity": 0.9804801940917969
+        }
+    },
+    {
+        "event_id": 41,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9539021849632263,
+            "eventDeviceCat": 0.9738010764122009,
+            "eventOperation": 0.9381369948387146,
+            "eventOutcome": 0.9695932865142822,
+            "eventSeverity": 0.972612738609314
+        }
+    },
+    {
+        "event_id": 42,
+        "eventClass": "General",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 2,
+        "confidence": {
+            "eventClass": 0.7818446755409241,
+            "eventDeviceCat": 0.9819623827934265,
+            "eventOperation": 0.9092937111854553,
+            "eventOutcome": 0.7926112413406372,
+            "eventSeverity": 0.9281966686248779
+        }
+    },
+    {
+        "event_id": 43,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9518284797668457,
+            "eventDeviceCat": 0.97139972448349,
+            "eventOperation": 0.9146244525909424,
+            "eventOutcome": 0.45667365193367004,
+            "eventSeverity": 0.757495641708374
+        }
+    },
+    {
+        "event_id": 44,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.8591752052307129,
+            "eventDeviceCat": 0.731558620929718,
+            "eventOperation": 0.7408960461616516,
+            "eventOutcome": 0.8464213013648987,
+            "eventSeverity": 0.8765286803245544
+        }
+    },
+    {
+        "event_id": 45,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Success",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.8253571391105652,
+            "eventDeviceCat": 0.9625320434570312,
+            "eventOperation": 0.8469128012657166,
+            "eventOutcome": 0.9295042157173157,
+            "eventSeverity": 0.8424245119094849
+        }
+    },
+    {
+        "event_id": 46,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.9779137969017029,
+            "eventDeviceCat": 0.9795759916305542,
+            "eventOperation": 0.9731872081756592,
+            "eventOutcome": 0.4599906802177429,
+            "eventSeverity": 0.8627153038978577
+        }
+    },
+    {
+        "event_id": 47,
+        "eventClass": "System",
+        "eventDeviceCat": "System",
+        "eventOperation": "system event",
+        "eventOutcome": "Normal",
+        "eventSeverity": 1,
+        "confidence": {
+            "eventClass": 0.9406145811080933,
+            "eventDeviceCat": 0.9887984395027161,
+            "eventOperation": 0.9746408462524414,
+            "eventOutcome": 0.8118409514427185,
+            "eventSeverity": 0.7169685363769531
+        }
+    },
+    {
+        "event_id": 48,
+        "eventClass": "Authentication",
+        "eventDeviceCat": "Firewall",
+        "eventOperation": "user login",
+        "eventOutcome": "Normal",
+        "eventSeverity": 3,
+        "confidence": {
+            "eventClass": 0.8967052102088928,
+            "eventDeviceCat": 0.8967015743255615,
+            "eventOperation": 0.83745276927948,
+            "eventOutcome": 0.8285366296768188,
+            "eventSeverity": 0.8035807013511658
+        }
+    }
+]
