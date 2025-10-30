@@ -12,6 +12,8 @@ This project trains a multi-output text classification model on event log text t
 
 Predictions are produced with per-field confidence scores and saved to `output_with_confidence.json`. Logging of per-event predictions is written to `prediction_logs.txt`.
 
+## Architecture Diagram
+- https://lucid.app/lucidchart/524a1761-5b1d-4ad1-939e-6b08cc80224f/edit?viewport_loc=-4054%2C-2729%2C11272%2C6990%2C0_0&invitationId=inv_e3bb85c3-6faa-4a24-98a0-0943708e97f4
 ## Approach
 
 1. Data ingestion
